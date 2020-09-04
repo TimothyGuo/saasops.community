@@ -467,6 +467,7 @@
   }
   .navigation-link i[class*=fas] {
     margin-left: 5px;
+    font-size: 14px !important;
   }
 }
 
