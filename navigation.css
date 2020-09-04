@@ -813,6 +813,10 @@
   }
 }
 
+.navigation-list > li > a > .fas {
+  margin-left: 4px;
+}
+
 [class^=navigation-col]:last-of-type .navigation-list > li > a {
   border-right: none;
 }
